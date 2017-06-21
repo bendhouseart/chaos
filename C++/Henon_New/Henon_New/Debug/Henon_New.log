@@ -1,0 +1,61 @@
+﻿Build started 3/16/2013 1:51:42 AM.
+     1>Project "C:\Users\Uma\Documents\My Dropbox\Spring 2013\380\hw6\C++\Henon_New\Henon_New\Henon_New.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Henon_New.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Henon_New.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Henon_New.cpp
+         Henon_New.cpp
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(175): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(77): warning C4101: 'tfi' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(66): warning C4101: 'k2vy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(82): warning C4101: 'd0test' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(68): warning C4101: 'k4vy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(72): warning C4101: 'yf' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(61): warning C4101: 'y' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(74): warning C4101: 'k2vyy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(73): warning C4101: 'k1yy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(66): warning C4101: 'k2y' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(61): warning C4101: 'vy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(76): warning C4101: 'k4vyy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(73): warning C4101: 'k1vyy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(67): warning C4101: 'k3vy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(75): warning C4101: 'k3yy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(80): warning C4101: 'dumxy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(78): warning C4101: 'conditional' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(72): warning C4101: 'hy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(71): warning C4101: 'vyy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(80): warning C4101: 'xout' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(67): warning C4101: 'k3y' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(65): warning C4101: 'k1y' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(81): warning C4101: 'dumvxy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(76): warning C4101: 'k4yy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(78): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(72): warning C4101: 'yi' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(75): warning C4101: 'k3vyy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(65): warning C4101: 'k1vy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(74): warning C4101: 'k2yy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(68): warning C4101: 'k4y' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(81): warning C4101: 'vxout' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(71): warning C4101: 'yy' : unreferenced local variable
+     1>c:\users\uma\documents\my dropbox\spring 2013\380\hw6\c++\henon_new\henon_new\henon_new.cpp(62): warning C4101: 't0' : unreferenced local variable
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Uma\Documents\My Dropbox\Spring 2013\380\hw6\C++\Henon_New\Debug\Henon_New.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Henon_New.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Uma\Documents\My Dropbox\Spring 2013\380\hw6\C++\Henon_New\Debug\Henon_New.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Uma\Documents\My Dropbox\Spring 2013\380\hw6\C++\Henon_New\Debug\Henon_New.lib" /MACHINE:X86 Debug\Henon_New.exe.embed.manifest.res
+         Debug\Henon_New.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Henon_New.exe.embed.manifest" /manifest Debug\Henon_New.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Henon_New.vcxproj -> C:\Users\Uma\Documents\My Dropbox\Spring 2013\380\hw6\C++\Henon_New\Debug\Henon_New.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Henon_New.unsuccessfulbuild".
+         Touching "Debug\Henon_New.lastbuildstate".
+     1>Done Building Project "C:\Users\Uma\Documents\My Dropbox\Spring 2013\380\hw6\C++\Henon_New\Henon_New\Henon_New.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.31

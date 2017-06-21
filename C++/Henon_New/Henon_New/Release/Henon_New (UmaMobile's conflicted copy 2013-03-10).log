@@ -1,0 +1,50 @@
+﻿Build started 3/8/2013 11:00:42 PM.
+     1>Project "C:\Users\Uma Mobile\Dropbox\spring 2013\380\hw6\C++\Henon_New\Henon_New\Henon_New.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Henon_New.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Henon_New.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Henon_New.cpp
+         Henon_New.cpp
+     1>Henon_New.cpp(165): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Henon_New.cpp(94): warning C4101: 'tfi' : unreferenced local variable
+     1>Henon_New.cpp(83): warning C4101: 'k2vy' : unreferenced local variable
+     1>Henon_New.cpp(85): warning C4101: 'k4vy' : unreferenced local variable
+     1>Henon_New.cpp(89): warning C4101: 'yf' : unreferenced local variable
+     1>Henon_New.cpp(78): warning C4101: 'y' : unreferenced local variable
+     1>Henon_New.cpp(91): warning C4101: 'k2vyy' : unreferenced local variable
+     1>Henon_New.cpp(90): warning C4101: 'k1yy' : unreferenced local variable
+     1>Henon_New.cpp(83): warning C4101: 'k2y' : unreferenced local variable
+     1>Henon_New.cpp(78): warning C4101: 'vy' : unreferenced local variable
+     1>Henon_New.cpp(93): warning C4101: 'k4vyy' : unreferenced local variable
+     1>Henon_New.cpp(90): warning C4101: 'k1vyy' : unreferenced local variable
+     1>Henon_New.cpp(84): warning C4101: 'k3vy' : unreferenced local variable
+     1>Henon_New.cpp(92): warning C4101: 'k3yy' : unreferenced local variable
+     1>Henon_New.cpp(89): warning C4101: 'hy' : unreferenced local variable
+     1>Henon_New.cpp(88): warning C4101: 'vyy' : unreferenced local variable
+     1>Henon_New.cpp(84): warning C4101: 'k3y' : unreferenced local variable
+     1>Henon_New.cpp(82): warning C4101: 'k1y' : unreferenced local variable
+     1>Henon_New.cpp(93): warning C4101: 'k4yy' : unreferenced local variable
+     1>Henon_New.cpp(89): warning C4101: 'yi' : unreferenced local variable
+     1>Henon_New.cpp(92): warning C4101: 'k3vyy' : unreferenced local variable
+     1>Henon_New.cpp(82): warning C4101: 'k1vy' : unreferenced local variable
+     1>Henon_New.cpp(91): warning C4101: 'k2yy' : unreferenced local variable
+     1>Henon_New.cpp(85): warning C4101: 'k4y' : unreferenced local variable
+     1>Henon_New.cpp(88): warning C4101: 'yy' : unreferenced local variable
+     1>Henon_New.cpp(79): warning C4101: 't0' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Uma Mobile\Dropbox\spring 2013\380\hw6\C++\Henon_New\Release\Henon_New.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Henon_New.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Uma Mobile\Dropbox\spring 2013\380\hw6\C++\Henon_New\Release\Henon_New.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Uma Mobile\Dropbox\spring 2013\380\hw6\C++\Henon_New\Release\Henon_New.lib" /MACHINE:X86 Release\Henon_New.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         Henon_New.vcxproj -> C:\Users\Uma Mobile\Dropbox\spring 2013\380\hw6\C++\Henon_New\Release\Henon_New.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Uma Mobile\Dropbox\spring 2013\380\hw6\C++\Henon_New\Release\Henon_New.exe;#1" /manifest Release\Henon_New.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Henon_New.unsuccessfulbuild".
+         Touching "Release\Henon_New.lastbuildstate".
+     1>Done Building Project "C:\Users\Uma Mobile\Dropbox\spring 2013\380\hw6\C++\Henon_New\Henon_New\Henon_New.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.38
